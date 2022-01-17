@@ -459,7 +459,8 @@ Our team worked really well together and we had no arguments or conflicts at all
 
 In terms of challenges, our biggest issue was proxy errors. We used http-proxy-middleware but constantly had issues with the server proxying correctly, which slowed us down in our development. We eventually found a solution to this issue and luckily it's not a problem for deployment.
 
-## <a name='learnings'>KEY LEARNINGS</a>
+## <a name='learnings'>KEY LEARNINGS</a>
+
 Planning! This project definitely involved the most planning, with wireframes, Kanban boards, and endpoints all mapped out. I learnt a lot about how to effectively plan and track a project through the development process, especially as part of a team.
 
 Git/GitHub. We had to do a lot of branching and merging in this project, so keeping track of who was working where, was really helpful in avoiding and resolving conflicts.
